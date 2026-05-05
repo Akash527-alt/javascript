@@ -1,0 +1,27 @@
+.container{
+    color: green;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+img{
+    width: 60px;
+}
+.para{
+    color:red;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+.img-container{
+    text-align: center;
+}
+.img-container p{
+    margin-top: -3px;
+}
+
+.heading{
+    font-family: cursive;
+    font-size: 20px;
+}

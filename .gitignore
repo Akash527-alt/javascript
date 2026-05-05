@@ -1,0 +1,24 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node modules (if you ever add npm later)
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Build folders (if you add any bundler later)
+dist/
+build/
+
+# VS Code settings
+.vscode/
+
+# Temp files
+*.tmp
+*.cache
+
+.env
+/Focus-on-today
