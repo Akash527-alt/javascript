@@ -1,0 +1,13 @@
+img{
+    width: 700px;
+    height: 500px;
+    display: none;
+}
+
+button{
+    margin : 4px;
+    padding:4px;
+    background-color: rgb(103, 61, 208);
+    border-radius: 8px;
+    margin-bottom: 8px;
+}
